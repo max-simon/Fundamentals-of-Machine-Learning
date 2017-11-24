@@ -21,3 +21,12 @@ Implementation, Visualisation and performance measurement of QDA
 
 ### Question 4
 Implementation, Visualisation and performance measurement of LDA
+
+
+## Exercise 03
+
+### Question 1
+Derivation of LDA from Least Square Error
+
+### Question 2
+Naive Bayes Classifier
